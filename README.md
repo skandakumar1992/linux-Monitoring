@@ -11,7 +11,7 @@ A Bash script that monitors:
 
 Technologies Used
 
-![Linux](https://img.shields.io/badge/Linux)
+![Linux](https://img.shields.io/badge/Linux%20colour%20Blue)
 ![Bash](https://img.shields.io/badge/Bash)
 ![Git](https://img.shields.io/badge/Git)
 ![GitHub](https://img.shields.io/badge/Github)
