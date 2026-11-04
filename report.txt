@@ -1,0 +1,24 @@
+===== SERVER HEALTH REPORT =====
+
+Date & Time:
+Wed Nov  4 12:07:57 IST 2026
+
+Hostname:
+DESKTOP-S5R2V5P
+
+Uptime:
+
+CPU Usage:
+
+Memory Usage:
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  233G  209G   24G  90% /
+D:                    847G  110G  738G  13% /d
+E:                   1000G  4.4G  996G   1% /e
+
+Top 5 Memory Consuming Processes:
+
+Top 5 CPU Consuming Processes:
+
