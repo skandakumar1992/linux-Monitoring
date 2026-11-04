@@ -11,9 +11,9 @@ A Bash script that monitors:
 
 Technologies Used
 
-![Static Badge](https://img.shields.io/badge/Linux)
-![Static Badge](https://img.shields.io/badge/Bash)
-![Static Badge](https://img.shields.io/badge/Git)
-![Static Badge](https://img.shields.io/badge/Github)
+![Linux](https://img.shields.io/badge/Linux)
+![Bash](https://img.shields.io/badge/Bash)
+![Git](https://img.shields.io/badge/Git)
+![GitHub](https://img.shields.io/badge/Github)
 
 
