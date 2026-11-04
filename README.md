@@ -2,12 +2,12 @@
 
 A Bash script that monitors:
 
--CPU Usage
--Memory Usage
--Disk Usage
--Uptime
--Top CPU Processes
--Top Memory Processes
+- CPU Usage
+- Memory Usage
+- Disk Usage
+- Uptime
+- Top CPU Processes
+- Top Memory Processes
 
 Technologies Used
 ![Static Badge](https://img.shields.io/badge/Linux)
