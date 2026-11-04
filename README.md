@@ -10,6 +10,7 @@ A Bash script that monitors:
 - Top Memory Processes
 
 Technologies Used
+
 ![Static Badge](https://img.shields.io/badge/Linux)
 ![Static Badge](https://img.shields.io/badge/Bash)
 ![Static Badge](https://img.shields.io/badge/Git)
